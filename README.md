@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Raman.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing
+- 🌱 I’m currently learning 3D Generative AI and Segementation
+- 💞️ I’m looking to collaborate on AL/ML Projects
+- 📫 How to reach me [Ram.ansh030@gmail.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Life is Hell
